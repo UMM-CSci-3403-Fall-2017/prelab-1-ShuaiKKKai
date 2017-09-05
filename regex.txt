@@ -1,0 +1,11 @@
+Pre-Lab 1
+# Kai Zang (Discussed with Yujing Song)
+
+Regex 0
+\w+
+
+Regex 1
+(?<=I am )([A-Z]\w+)(?=.)|(?<=My favorite sandwich is )([a-z]\w+)(?=.)
+
+Regex 2
+(?<=sandwich with )(.*\.)|(?<=\. )(.*)
